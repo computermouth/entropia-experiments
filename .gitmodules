@@ -1,0 +1,6 @@
+[submodule "c-entropia/raylib"]
+	path = c-entropia/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "rsc-entropia/crates/raybridge/raylib"]
+	path = rsc-entropia/crates/raybridge/raylib
+	url = https://github.com/raysan5/raylib

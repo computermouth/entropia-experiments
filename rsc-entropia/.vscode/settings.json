@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./crates/raybridge/Cargo.toml",
+        "./crates/raybridge/Cargo.toml"
+    ]
+}
